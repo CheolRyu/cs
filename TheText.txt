@@ -2,3 +2,4 @@ the text file
 
 second commit
 Fourth Commit
+Seventh Commit
